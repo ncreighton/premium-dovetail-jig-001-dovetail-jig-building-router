@@ -1,0 +1,2 @@
+# premium-dovetail-jig-001-dovetail-jig-building-router
+Tired of wasting expensive hardwood on trial-and-error dovetail cuts? Stop guessing and start crafting with a systematic lab for building jigs and templates.  This Notion template organizes every stage of dovetail jig fabrication and router template creation, from initial design sketches to final cut logs. It eliminates the chaos of loose notes and
